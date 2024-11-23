@@ -12,8 +12,7 @@
 node_modules/
 app/bower/
 .tmp/
-/build/
-/dist/
+
 
 # OS or Editor folders
 .DS_Store
